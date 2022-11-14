@@ -28,6 +28,7 @@ This saves the edits in the file DocSearchServer.java
 
 
 2. 
+
 ```
 /start<Enter>cebase<Esc>:w<Enter>
 ```
@@ -54,6 +55,7 @@ This saves the edits in the file DocSearchServer.java
 
 
 3. 
+
 ```
 /start<Enter>cebase<Esc>:w<Enter>
 ```
@@ -80,6 +82,7 @@ This saves the edits in the file DocSearchServer.java
 
 
 4. 
+
 ```
 /start<Enter>cebase<Esc>:w<Enter>
 ```
