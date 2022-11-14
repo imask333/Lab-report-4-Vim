@@ -105,3 +105,8 @@ This saves the edits in the file DocSearchServer.java
 
 ## Part 2 ##
 
+1. I find style 2, that is logging into ssh and make the edits using Vim, and run ```
+bash test.sh```
+is better if I was running remotely, because it's faster since I don't have to open the folder in the local machine to make edits, 
+
+2. A factor that's may influence my decision into choosing style 1 rather than 2, is that when I'd like for there to be codes that's already available on my local machine, and it's better if i want to make edits over a period of time than going in and out of vim, as well as saving as exiting the file .
